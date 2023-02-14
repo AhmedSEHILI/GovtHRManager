@@ -1,0 +1,19 @@
+Général d'armée
+Général de corps d'armée
+Général-Major
+Général
+Colonel
+Lieutenant-colonel
+Commandant
+Capitaine 
+Lieutenant
+Sous-Lieutenant
+Aspirant
+Adjudant_chef
+Adjudant
+Sergent-chef
+Sergent
+Caporal-chef
+Caopral
+Djoundi
+

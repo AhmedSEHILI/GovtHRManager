@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1639943849 source:c:\users\user\desktop\machine_abstraite\implem_l_nono_f.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640005936 c:\users\user\desktop\machine_abstraite\headers.h
+
+1639943849 source:c:\users\user\desktop\machine_abstraite\implem_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640006374 source:c:\users\user\desktop\machine_abstraite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Headers.h"
+	"info.c"
+	"Implem_L_nonO_F.c"
+	"Implem_LLC.c"
+	<string.h>
+
+1639983140 source:c:\users\user\desktop\machine_abstraite\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"headers.h"
+
+1639987263 c:\users\user\desktop\machine_abstraite\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1640003777 c:\users\user\desktop\machine_abstraite\implem_l_nono_f.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1639943849 c:\users\user\desktop\machine_abstraite\implem_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640352327 source:c:\users\user\desktop\tpsfsdversion1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Headers.h"
+	"info.c"
+	"Implem_L_nonO_F.c"
+	"Implem_LLC.c"
+	<string.h>
+
+1640270679 c:\users\user\desktop\tpsfsdversion1_3\headers.h
+
+1640158642 c:\users\user\desktop\tpsfsdversion1_3\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1640270677 c:\users\user\desktop\tpsfsdversion1_3\implem_l_nono_f.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640158642 c:\users\user\desktop\tpsfsdversion1_3\implem_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640424298 source:c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\index_region.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640423649 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\headers.h
+
+1640424356 source:c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Headers.h"
+	"info.c"
+	"Implem_L_nonO_F.c"
+	"Implem_LLC.c"
+	<string.h>
+	"conio2.h"
+	"conio.c"
+	"index_region.c"
+
+1640357732 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\info.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1640423647 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\implem_l_nono_f.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1640357732 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\implem_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
+1489802768 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\conio2.h
+	<conio.h>
+	<windows.h>
+
+1489802768 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1640424298 c:\users\inner\desktop\tp sfsd\prgrms\version 1.5\index_region.c
+	<stdio.h>
+	<stdlib.h>
+	"Headers.h"
+
