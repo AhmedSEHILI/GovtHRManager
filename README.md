@@ -4,5 +4,5 @@ This desktop app is a simple simulation of an app that manages the human ressour
 
 <p>It was given as a college mini project in 2021/2022.</p>
 
-<p>For more details you can ask <a href="https://github.com/HimeurWail">Himeur Wail</a></p>
+<p>For more details you can ask me or <a href="https://github.com/HimeurWail">Himeur Wail</a></p>
 </p>
